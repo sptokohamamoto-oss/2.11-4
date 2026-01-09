@@ -8,7 +8,7 @@ class Program {
         string password = "password123";
 
 
-        if (userid == "admin" && password == "password123")
+        if (userid == "admin" || password == "password123")
         {
 
             Console.WriteLine("ログイン成功");
