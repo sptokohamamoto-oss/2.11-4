@@ -16,7 +16,7 @@ class Program {
         }
         else 
         {
-            Console.WriteLine("不正アクセス");
+            Console.WriteLine("ログイン失敗");
 
         }
 
